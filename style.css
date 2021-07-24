@@ -205,3 +205,6 @@ marquee.welcomeMsg{
     background-color: white;
     margin-bottom: 80px; 
   }   
+ .fade { 
+    opacity: 1;
+  }
