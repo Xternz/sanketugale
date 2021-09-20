@@ -205,8 +205,8 @@ marquee.welcomeMsg{
     background-color: white;
     margin-bottom: 80px; 
   } 
-.card {
-  display:block;
-  padding-left: 10px;
-  padding-right: 10px;
+  div.card {
+    display:block;
+    padding-left: 10px;
+    padding-right: 10px;
 }
